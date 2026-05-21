@@ -10,7 +10,7 @@ This repository contains my industrial training projects.
 - Flutter
 - Dart
 - C++
-- Java (if any)
+
 
 ## Student Info
 - Name: Mashum Abdullah
